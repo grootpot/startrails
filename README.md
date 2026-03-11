@@ -6,6 +6,8 @@ StarTrails AI is an opensource tool for creating star trail images that automate
 
 These days, it's hard to take an image of the night sky without capturing airplane and satellite streaks. These are lines that appear in night sky images as a result of light emitting from or reflecting off airplanes, satellites or space debris. These streaks leave a visible path in the captured image during long-exposure photography.
 
+[View Walkthrough on YouTube](https://www.youtube.com/watch?v=Jjt-_TK-OC0)
+
 ## Examples
 
 Stacked Star Trail Image             |  Satellite Streaks Removed
